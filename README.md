@@ -37,11 +37,11 @@ graph LR
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>🔴 Capital Decision Systems</h3>
+      <h3>☑︎ Capital Decision Systems</h3>
       <p>Systems that <b>directly generate capital growth.</b></p>
     </td>
     <td width="50%" valign="top">
-      <h3>🔵 Supporting Infrastructure</h3>
+      <h3>⚛︎ Supporting Infrastructure</h3>
       <p>Systems that enable <b>data, execution, and system reliability.</b></p>
     </td>
   </tr>
@@ -49,7 +49,7 @@ graph LR
 
 ---
 
-# 🔴 Capital Decision Systems
+# ☑︎ Capital Decision Systems
 
 ## 1. Easy ORB 0DTE — High-Frequency Capital Allocation System
 *Primary production system for capital growth*
@@ -128,7 +128,7 @@ flowchart LR
 
 ---
 
-# 🔵 Supporting Infrastructure
+# ⚛︎ Supporting Infrastructure
 
 ## 4. Easy TradingView Agent — Execution Layer
 *A production-grade system converting signals → broker execution.*
