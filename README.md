@@ -10,7 +10,7 @@
 
 <br/>
 
-## 🧠 Overview
+## 📻 Overview
 
 This repository showcases **production-grade AI decision systems** that convert real-time data into **actionable execution**. The focus is on **systems that make decisions and act on them**, not models in isolation.
 
@@ -32,7 +32,7 @@ graph LR
 
 ---
 
-## 🎯 Portfolio Structure
+## 🛄 Portfolio Structure
 
 <table>
   <tr>
@@ -81,8 +81,8 @@ A cloud-deployed execution system that:
 <summary><b>🛠️ Product Decisions & Insights</b></summary>
 <br/>
 
-- 🛡️ Prioritized **capital preservation** over max gain.
-- 🚧 Enforced **strict execution gating** over signal chasing.
+- 🏧 Prioritized **capital preservation** over max gain.
+- ✳️ Enforced **strict execution gating** over signal chasing.
 - ⚖️ Balanced **latency vs. decision quality** under volatility.
 
 > **Insight:** A real system for **decision-making under extreme constraints** (minutes-level timing, capital exposure, volatility uncertainty).
