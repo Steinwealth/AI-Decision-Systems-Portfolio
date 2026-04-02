@@ -41,7 +41,7 @@ graph LR
       <p>Systems that <b>directly generate capital growth.</b></p>
     </td>
     <td width="50%" valign="top">
-      <h3>⚛︎ Supporting Infrastructure</h3>
+      <h3>♖ Supporting Infrastructure</h3>
       <p>Systems that enable <b>data, execution, and system reliability.</b></p>
     </td>
   </tr>
@@ -128,7 +128,7 @@ flowchart LR
 
 ---
 
-# ⚛︎ Supporting Infrastructure
+# ♖ Supporting Infrastructure
 
 ## 4. Easy TradingView Agent — Execution Layer
 *A production-grade system converting signals → broker execution.*
