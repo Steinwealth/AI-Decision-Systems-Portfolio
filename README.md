@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>🚀 AI Decision Systems Portfolio</h1>
+  <h1>⎋ AI Decision Systems Portfolio</h1>
   <p><b>Production AI systems executing real-time decisions under latency, capital, and risk constraints</b></p>
 
   <img src="https://img.shields.io/badge/Execution-%3C100ms-red?style=for-the-badge" />
